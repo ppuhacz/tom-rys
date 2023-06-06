@@ -4,7 +4,7 @@ My first commercial project made for a local plumber. I wanted to keep the site 
 
 https://www.tom-rys.pl/
 
-#Lighthouse test
+# Lighthouse test
 
 ![image](https://github.com/ppuhacz/tom-rys/assets/121962027/ff1e5df7-e503-4e2c-9517-2dcc5e4d19da)
 
